@@ -1,0 +1,11 @@
+/.venv
+/.mypy_cache
+/Pipfile.lock
+/tmp/**
+/**/__pycache__
+/**/.ropeproject
+!.gitkeep
+
+/build
+/dist
+/*.spec
